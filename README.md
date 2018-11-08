@@ -1,13 +1,7 @@
-# Hello World
-Ovo je prvi dokument izrađen na Githubu. 
+# Izabrana poglavlja iz informacijskih znanosti (ak. god. 2018./2019.)
 
-## Naslov 2
-Ovo je naslov druge razine. 
+## Informatika za knjižnice i arhive
 
-### Naslov 3 
-Ovo je naslov treće razine. 
+[### 1. Instalacija i postavljanje radnog okružja](1-radno-okruzje.md)
 
-#### Naslov 4 
-Ovo je naslov četvrte razine. 
 
-# Uvod u Markdown
